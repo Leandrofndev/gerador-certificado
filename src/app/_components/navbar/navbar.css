@@ -11,3 +11,11 @@ border-bottom: 1px solid #E2E8F0;
 .nav-link.active{
   color: #3B5AC2;
 }
+
+.active{
+  color: #3B5AC2;
+}
+
+ul li{
+  align-items: center;
+}
